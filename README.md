@@ -30,7 +30,7 @@ This guidance is provided specifically for Visual Studio 2022 edition. For anoth
 
 # 2 Getting setup in DfE Sign-in
 
-## 2.1 Pre-requisities prior to on-boarding
+## 2.1 Pre-requisites prior to on-boarding
 
 ### ESFA Teams migrating from Pirean IDAMS to DfE Sign-in
 Please contact the Pirean IDAMS migration team to assist with trialling DSI integration, or alternatively if and when you are ready we can raise a ticket for your specific service to be setup in the DSI Test environment. 
