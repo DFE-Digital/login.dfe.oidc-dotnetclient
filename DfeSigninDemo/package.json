@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "govuk-frontend": "^3.2.0",
+    "gulp": "4.0.2",
+    "gulp-sass": "4.0.2"
+  }
+}
